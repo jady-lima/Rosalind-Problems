@@ -15,10 +15,6 @@
 
 # Probabilidades de que a prole tenha pelo menos um alelo dominante
 
-P_Aa_Aa = 3/4
-P_Aa_aa = 1/2
-P_aa_aa = 0
-
 from itertools import combinations_with_replacement
 
 def open_file(path):
